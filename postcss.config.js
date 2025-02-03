@@ -1,4 +1,4 @@
-export const plugins = {
+ const plugins = {
   tailwindcss: {},
   autoprefixer: {},
 };
